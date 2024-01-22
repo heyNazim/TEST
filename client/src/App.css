@@ -1,0 +1,11 @@
+/* Home page */
+.homepage{
+  background: url('./images/authenticationhomepage.jpg');
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
